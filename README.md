@@ -168,8 +168,6 @@ $$
 </tr>
 </table>
 
-*Add links to your actual repositories under each project when they are ready.*
-
 ---
 
 ## `05` — My Approach
